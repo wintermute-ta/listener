@@ -1,0 +1,29 @@
+{
+	"Trackers":
+		[
+			{
+				"URL": "https://iejira.ea.com/",
+				"API": "JIRA",
+				"version": 1,
+				"login": "user_login",
+				"password": "user_password",
+				"meta": ""
+			},
+			{
+				"URL": "http://itmagiclab.com/redmine",
+				"API": "REDMINE",
+				"version": 1,
+				"login": "user_login",
+				"password": "user_password",
+				"meta": "userid:13"
+			},
+			{
+				"URL": "",
+				"API": "",
+				"version": 0,
+				"login": "",
+				"password": "",
+				"meta": ""
+			}				
+		]
+}

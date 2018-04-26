@@ -1,0 +1,1 @@
+build from source code in archive in VS 2015 Pro but changed MS Runtime to be dynamic to conform Casablanka SDK. no other changes.
